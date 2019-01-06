@@ -1,0 +1,37 @@
+.gif-form {
+    float : right;
+}
+
+body{
+	background-image: url("http://i.imgur.com/4GUhXsL.png");
+	background-size: 100%;
+    background-repeat: no-repeat;
+    color: black;
+}
+
+.form-group {
+    color: White;
+}
+
+.btn {
+    margin: 5px;
+    color: white;
+    background-color: #999999;
+    border-color: red;
+    border-radius: 1in
+}
+.gifDiv{
+    
+    float: left;
+    margin: 3px;
+}
+.container {
+	background-color: #fff;
+	
+	padding: 20px;
+}
+
+.jumbotron h1 {
+    text-align: center;
+}
+
